@@ -4,6 +4,8 @@ This Coffee Sales Dashboard is an interactive Tableau dashboard that provides in
 
 ## Dashboard Overview
 
+![Coffee Sales Dashboard](coffee_sales_dashboard.png)
+
 ### Key Features:
 1. **Order Date Filter**: Select the date range to view sales for specific periods.
 2. **Roast Type Name**: Filter by roast types, including Dark, Light, and Medium.
