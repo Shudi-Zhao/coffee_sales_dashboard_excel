@@ -1,6 +1,6 @@
 # Coffee Sales Dashboard
 
-This Coffee Sales Dashboard is an interactive Tableau dashboard that provides insights into coffee sales across different regions, customer types, and coffee varieties. It allows users to explore sales trends over time, as well as identify top-selling coffee types and loyal customers.
+This Coffee Sales Dashboard is an interactive excel dashboard that provides insights into coffee sales across different regions, customer types, and coffee varieties. It allows users to explore sales trends over time, as well as identify top-selling coffee types and loyal customers.
 
 ## Dashboard Overview
 
